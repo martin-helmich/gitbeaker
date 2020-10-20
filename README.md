@@ -241,6 +241,7 @@ ContainerRegistry
 Deployments
 DeployKeys
 Environments
+FreezePeriods
 Issues
 IssuesStatistics
 IssueNotes
@@ -249,6 +250,7 @@ IssueAwardEmojis
 Jobs
 Labels
 MergeRequests
+MergeRequestApprovals
 MergeRequestAwardEmojis
 MergeRequestDiscussions
 MergeRequestNotes
@@ -324,6 +326,7 @@ ContainerRegistry
 Deployments
 DeployKeys
 Environments
+FreezePeriods
 Issues
 IssuesStatistics
 IssueNotes
@@ -332,6 +335,7 @@ IssueAwardEmojis
 Jobs
 Labels
 MergeRequests
+MergeRequestApprovals
 MergeRequestAwardEmojis
 MergeRequestDiscussions
 MergeRequestNotes
@@ -693,6 +697,7 @@ This started as a fork from [node-gitlab-legacy](https://github.com/node-gitlab/
     <td align="center"><a href="https://github.com/Gkxie"><img src="https://avatars0.githubusercontent.com/u/27680715?v=4?s=50" width="50px;" alt=""/><br /><sub><b>xieyu</b></sub></a><br /><a href="https://github.com/jdalrymple/gitbeaker/commits?author=Gkxie" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/st1gok"><img src="https://avatars1.githubusercontent.com/u/13641693?v=4?s=50" width="50px;" alt=""/><br /><sub><b>st1gok</b></sub></a><br /><a href="https://github.com/jdalrymple/gitbeaker/commits?author=st1gok" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/max-wittig"><img src="https://avatars3.githubusercontent.com/u/6639323?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Max Wittig</b></sub></a><br /><a href="https://github.com/jdalrymple/gitbeaker/commits?author=max-wittig" title="Documentation">📖</a> <a href="https://github.com/jdalrymple/gitbeaker/commits?author=max-wittig" title="Tests">⚠️</a> <a href="https://github.com/jdalrymple/gitbeaker/commits?author=max-wittig" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/nlochschmidt"><img src="https://avatars3.githubusercontent.com/u/759624?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Niklas Lochschmidt</b></sub></a><br /><a href="https://github.com/jdalrymple/gitbeaker/commits?author=nlochschmidt" title="Documentation">📖</a> <a href="https://github.com/jdalrymple/gitbeaker/commits?author=nlochschmidt" title="Tests">⚠️</a> <a href="https://github.com/jdalrymple/gitbeaker/commits?author=nlochschmidt" title="Code">💻</a></td>
   </tr>
 </table>
 

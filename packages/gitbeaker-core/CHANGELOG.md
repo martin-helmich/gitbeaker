@@ -1,3 +1,44 @@
+# v25.1.0 (Tue Oct 20 2020)
+
+#### 🔩 Dependency Updates
+
+- chore(deps-dev): bump rollup-plugin-typescript2 from 0.27.3 to 0.28.0 [#1248](https://github.com/jdalrymple/gitbeaker/pull/1248) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 1
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+
+---
+
+# v25.0.0 (Thu Oct 15 2020)
+
+#### 💥 Breaking Change
+
+- Add approval rule management [#1233](https://github.com/jdalrymple/gitbeaker/pull/1233) ([@nlochschmidt](https://github.com/nlochschmidt))
+
+#### Authors: 1
+
+- Niklas Lochschmidt ([@nlochschmidt](https://github.com/nlochschmidt))
+
+---
+
+# v24.3.0 (Thu Oct 15 2020)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Niklas Lochschmidt ([@nlochschmidt](https://github.com/nlochschmidt)), for all your work!
+
+#### 💥 Feature
+
+- Add support for Freeze Periods [#1231](https://github.com/jdalrymple/gitbeaker/pull/1231) ([@nlochschmidt](https://github.com/nlochschmidt) [@jdalrymple](https://github.com/jdalrymple))
+
+#### Authors: 2
+
+- Justin Dalrymple ([@jdalrymple](https://github.com/jdalrymple))
+- Niklas Lochschmidt ([@nlochschmidt](https://github.com/nlochschmidt))
+
+---
+
 # v24.1.0 (Mon Oct 12 2020)
 
 #### 💥 Feature

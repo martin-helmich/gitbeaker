@@ -1,3 +1,75 @@
+# 25.1.0 (Tue Oct 20 2020)
+
+#### 🐛 Bug Fix
+
+- `@gitbeaker/browser`, `@gitbeaker/node`
+  - RejectUnauthorized being set incorrectly for the NodeJS release [#1252](https://github.com/jdalrymple/gitbeaker/pull/1252) ([@jdalrymple](https://github.com/jdalrymple))
+
+#### ⚠️ Pushed to `master`
+
+- chore(deps-dev): bump lint-staged from 10.4.0 to 10.4.2 ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### 🔩 Dependency Updates
+
+- chore(deps-dev): bump eslint-config-prettier from 6.12.0 to 6.13.0 [#1249](https://github.com/jdalrymple/gitbeaker/pull/1249) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- chore(deps-dev): bump rollup from 2.30.0 to 2.32.0 [#1244](https://github.com/jdalrymple/gitbeaker/pull/1244) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- chore(deps-dev): bump @types/node from 14.11.8 to 14.11.10 [#1246](https://github.com/jdalrymple/gitbeaker/pull/1246) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- chore(deps): bump query-string from 6.13.5 to 6.13.6 [#1245](https://github.com/jdalrymple/gitbeaker/pull/1245) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- chore(deps-dev): bump @auto-it/all-contributors from 9.54.5 to 9.59.1 [#1242](https://github.com/jdalrymple/gitbeaker/pull/1242) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- chore(deps-dev): bump auto from 9.58.0 to 9.59.1 [#1239](https://github.com/jdalrymple/gitbeaker/pull/1239) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- chore(deps-dev): bump @auto-it/first-time-contributor [#1238](https://github.com/jdalrymple/gitbeaker/pull/1238) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- `@gitbeaker/browser`, `@gitbeaker/cli`, `@gitbeaker/core`, `@gitbeaker/node`, `@gitbeaker/requester-utils`
+  - chore(deps-dev): bump rollup-plugin-typescript2 from 0.27.3 to 0.28.0 [#1248](https://github.com/jdalrymple/gitbeaker/pull/1248) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 2
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+- Justin Dalrymple ([@jdalrymple](https://github.com/jdalrymple))
+
+---
+
+# 25.0.0 (Thu Oct 15 2020)
+
+#### 💥 Breaking Change
+
+- `@gitbeaker/browser`, `@gitbeaker/core`, `@gitbeaker/node`
+  - Add approval rule management [#1233](https://github.com/jdalrymple/gitbeaker/pull/1233) ([@nlochschmidt](https://github.com/nlochschmidt))
+
+#### Authors: 1
+
+- Niklas Lochschmidt ([@nlochschmidt](https://github.com/nlochschmidt))
+
+---
+
+# 24.3.0 (Thu Oct 15 2020)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Niklas Lochschmidt ([@nlochschmidt](https://github.com/nlochschmidt)), for all your work!
+
+#### 💥 Feature
+
+- `@gitbeaker/browser`, `@gitbeaker/core`, `@gitbeaker/node`
+  - Add support for Freeze Periods [#1231](https://github.com/jdalrymple/gitbeaker/pull/1231) ([@nlochschmidt](https://github.com/nlochschmidt) [@jdalrymple](https://github.com/jdalrymple))
+
+#### 🔩 Dependency Updates
+
+- chore(deps-dev): bump @auto-it/all-contributors from 9.54.0 to 9.54.5 [#1204](https://github.com/jdalrymple/gitbeaker/pull/1204) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) [@jdalrymple](https://github.com/jdalrymple))
+- chore(deps-dev): bump @auto-it/first-time-contributor [#1237](https://github.com/jdalrymple/gitbeaker/pull/1237) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- chore(deps-dev): bump auto from 9.57.0 to 9.58.0 [#1236](https://github.com/jdalrymple/gitbeaker/pull/1236) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- chore(deps-dev): bump @auto-it/core from 9.57.0 to 9.58.0 [#1234](https://github.com/jdalrymple/gitbeaker/pull/1234) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- chore(deps-dev): bump rollup from 2.29.0 to 2.30.0 [#1229](https://github.com/jdalrymple/gitbeaker/pull/1229) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- chore(deps-dev): bump @typescript-eslint/parser from 4.4.0 to 4.4.1 [#1228](https://github.com/jdalrymple/gitbeaker/pull/1228) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- chore(deps-dev): bump @typescript-eslint/eslint-plugin [#1230](https://github.com/jdalrymple/gitbeaker/pull/1230) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 3
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+- Justin Dalrymple ([@jdalrymple](https://github.com/jdalrymple))
+- Niklas Lochschmidt ([@nlochschmidt](https://github.com/nlochschmidt))
+
+---
+
 # 24.2.0 (Tue Oct 13 2020)
 
 #### 🐛 Bug Fix
